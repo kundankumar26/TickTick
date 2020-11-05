@@ -7,6 +7,6 @@ Here are some screenshots from the app.
 
 
 
-<img src="Screenshot_2020-11-06-04-31-27-428_com.example.ticktick.png" height="600" width="300"> |
-<img src="Screenshot_2020-11-06-04-32-32-212_com.example.ticktick.png" height="600" width="300"> |
-<img src="Screenshot_2020-11-06-04-31-32-586_com.example.ticktick.png" height="600" width="300">
+<img src="Screenshot_2020-11-06-04-31-27-428_com.example.ticktick.png" height="500" width="250"> |
+<img src="Screenshot_2020-11-06-04-32-32-212_com.example.ticktick.png" height="500" width="250"> |
+<img src="Screenshot_2020-11-06-04-31-32-586_com.example.ticktick.png" height="500" width="250">
